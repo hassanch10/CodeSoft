@@ -1,0 +1,176 @@
+body{
+    background-color: rgb(37, 5, 5);
+}
+.header-container{
+    height: 50%;
+    width: 100%;
+    position: relative;
+   
+}
+.header-container img{
+    width: 100%;
+    height: 400px;
+    filter: brightness(0.55);
+}
+.icon{
+    margin-right: 1rem;
+}
+.icon i{
+    font-size: 2rem;
+}
+.ee{
+    margin-left: 30%;
+    text-align: center;
+    justify-content: center;
+}
+.navbar-nav{
+    margin-left: 33%;
+}
+.form-control{
+    width: 8rem;
+    margin-left: 1%;
+}
+.row1{
+    background-color: gray
+}
+.row2{
+    background-color: brown;
+    padding: 1rem;
+}
+.col{
+    margin-left: 10%;
+}
+
+.content{
+    position: absolute;
+    width: 30%;
+    height:40%;
+    display: block;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    top: 30%;
+    left: 35%;
+}
+.content p{
+    color: white;
+    text-align: justify;
+
+}
+.col .icon i{
+    color: white;
+    padding-top: 1rem;
+}
+.col .ab{
+    color: black;
+    background: none;
+    border: 1px solid white;
+}
+.col .ab:hover{
+    background-color: white;
+}
+.content .ab{
+    color: white;
+    background: rgb(58, 3, 3);
+    border: 1px solid white;
+    transition: all 1s ease-out;
+}
+.content .ab:hover{
+    background-color: white;
+    color: black;
+}
+.mh{
+    background-color: grey;
+    padding-bottom: 0.5rem;
+}
+.col-md-4 p{
+    text-align: justify;
+}
+.col-md-4 h3{
+    color: rgb(32, 4, 4);
+}
+.col-md-4 .sc{
+    font-size: 40px;
+    color: white;
+}
+.cl2{
+    background-color: rgb(26, 2, 2);
+    color: white;
+}
+.cl2 h3{
+    color: white;
+}
+.cl1{
+    border-left: 5px solid rgb(26, 2, 2);
+    border-top: 3px solid rgb(26, 2, 2) ;
+    border-bottom: 3px solid rgb(26, 2, 2) ;
+}
+.cl3{
+    border-right: 5px solid rgb(26, 2, 2);
+    border-top: 3px solid rgb(26, 2, 2) ;
+    border-bottom: 3px solid rgb(26, 2, 2) ;
+}
+.container3{
+    margin-top: 2rem;
+    background-color: grey;
+    height: 330px;
+    border-radius: 2rem ;
+    box-shadow: rgba(14, 13, 13, 0.452);
+}
+.container3 p{
+    text-align: justify;
+}
+.container3 img{
+    padding-top: 1rem;
+}
+.container-5{
+    background-color: grey;
+    padding-left: 1;
+    padding-right: 0;
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
+.container-5 .card{
+    background-color: grey;
+    height: 17rem;
+    margin-right: 1rem;
+    border-radius: 1rem;
+    position: relative;
+    align-items: center;
+}
+.container-5 .card .card-img-top{
+    height: 13rem;
+    border-radius: 2rem;
+    padding-top: 4px; 
+}
+.container-5 .card .x{
+    color: white;
+    font-size: 2rem;
+}
+.container-5 .card h3{
+    font-size: 1.3rem;
+}
+.card-contain{
+    background-color: rgba(248, 245, 245, 0.678);
+    width: 17rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin-top: 0.6rem;
+    padding: 0;
+    
+}
+.container-5 .as{
+    position: absolute;
+    top: 40%;
+}
+.container-5 .as .btn{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.548);
+    border: 1px solid white;
+    transition: all 1s ease-in-out;
+}
+.container-5 .as .btn:hover{
+    background-color: white;
+    color: black;
+    border: black 1px solid;
+}
