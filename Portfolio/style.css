@@ -1,0 +1,67 @@
+.row{
+    z-index: 2;
+}
+.container1{
+    display: Block;
+    width: 90%;
+    padding-top: 5%;
+    padding-left: 13% ;
+    
+}
+.container1 p{
+    text-align: justify;
+}
+.icons .a1{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: Black;
+}
+.icons .a2{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: red;
+}
+.icons .a3{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: yellow
+}
+.icons .a4{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: green;
+}
+.icons .a5{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: black;
+}
+.icons .a6{
+    font-size: 2rem;
+    margin-right: 0.5rem ;
+    color: Green;
+}
+.container2{
+    display: Block;
+    width: 90%;
+    padding-top: 3%;
+    padding-left: 13% ;
+    
+}
+.container2 a{
+    margin-right: 2rem;
+}
+.col-md-5 img{
+    transition: all 0.3s ease-in-out ;
+    
+}
+.col-md-5 img:hover{
+    transform: scaleX(1.15);
+}
+.col-md-7 .container1{
+    transition: all 0.3s ease-in-out ;
+}
+.col-md-7 .container1:hover{
+    transform: scaleX(1.15);
+}
+
