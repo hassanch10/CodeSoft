@@ -1,0 +1,17 @@
+*{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.main{
+    width: 250px;
+    height: 350px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.btn{
+    height: auto;
+    width: 50px;
+}
